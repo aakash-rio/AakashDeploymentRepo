@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: aakash-alpha
   labels:
-    app: aakash-alpha-alpha
+    app: aakash-alpha
 spec:
   replicas: 3
   selector:
